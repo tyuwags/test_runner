@@ -1,6 +1,6 @@
 tasks:
-  name: Testing python
-  command: python main.py
+  - name: Testing python
+    command: python main.py
 
 # Logging configuration
 logging:
