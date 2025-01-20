@@ -1,0 +1,8 @@
+tasks:
+  - name: Testing python
+    command: python main.py
+
+# Logging configuration
+logging:
+  log_file: service.log
+  error_log_file: error.log
