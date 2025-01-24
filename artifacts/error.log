@@ -1,0 +1,2 @@
+/usr/local/bin/runner: line 82: python12: command not found
+Task failed: Testing python
